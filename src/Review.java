@@ -162,4 +162,12 @@ public class Review {
       return randomNegativeAdj();
     }
   }
+  public static double totalSentiment(String filename){
+    String blank = " ";
+    String textToString = textToString(filename);
+    while(){
+
+    }
+    return 0;
+  }
 }
